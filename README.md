@@ -1,2 +1,2 @@
 # testclient_httpx
-Patches Starlette Testclient to use httpx instead of requests
+Patches the [Starlette Testclient] to use `httpx` instead of `requests`.
